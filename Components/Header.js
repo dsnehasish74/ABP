@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function Header() {
   return (
     <View style={styles.headerContainer}>
-      <Text style={styles.headerText}>ActivityLog</Text>
+      <Text style={styles.headerText}>Activity Log</Text>
     </View>
   );
 }
